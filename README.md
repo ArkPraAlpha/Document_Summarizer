@@ -92,7 +92,7 @@ npm run dev
 
 ## 🌐 Useful Links
 - [Project GitHub Repository](https://github.com/ArkPraAlpha/Document_Summarizer)
-- [Frontend Live Demo](https://your-app-link.netlify.app)
+- [Frontend Live Demo]((https://document-ocr-summarizer.netlify.app/))
 ---
 
 ## 👨‍💻 Author
